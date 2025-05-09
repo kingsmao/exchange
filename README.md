@@ -15,8 +15,8 @@ BITCOIN ETHEREUM XRP 数字货币交易所
 #### 账号：coc3@coc.exchange
 #### 密码：1234qwer
 
-## 联系方式：bojackworkman@gmail.com
-## 联系方式：tg：@bender_cex
+## 邮箱联系：bojackworkman@gmail.com
+## telegram联系：t.me/bender_cex
 
 ## 预览
 ## PC端
