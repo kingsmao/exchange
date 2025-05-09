@@ -16,7 +16,7 @@
 #### 密码：1234qwer
 
 ## 邮箱联系：bojackworkman@gmail.com
-## telegram联系：t.me/bender_cex
+## telegram联系：[@bender_cex](t.me/bender_cex)
 
 ## 预览
 ## PC端
