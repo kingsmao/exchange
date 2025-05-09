@@ -6,9 +6,9 @@ BITCOIN ETHEREUM XRP 数字货币交易所
 ### 包含 IOS 安卓 PC H5 管理后台 做市商系统
 
 ## 技术栈
-### 后端 golang 微服务 postgres redis mq
-### 原生IOS安卓
-### PC端vue
+#### 后端：golang 微服务架构 K8S部署 postgres redis mq
+#### APP：原生IOS 安卓
+#### PC端：vue
 
 ## 体验PC端
 #### 访问地址：https://www.coc.exchange
@@ -16,6 +16,7 @@ BITCOIN ETHEREUM XRP 数字货币交易所
 #### 密码：1234qwer
 
 ## 联系方式：bojackworkman@gmail.com
+## 联系方式：tg：@bender_cex
 
 ## 预览
 PC端
