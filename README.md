@@ -35,7 +35,7 @@ PC端
 
 IOS
 首页
-<img src="./image/ios_首页.png" alt="iOS首页" style="width:200px;height:auto;">
+<img src="./image/ios_首页.png" alt="iOS首页" style="width:350px;height:auto;">
 现货交易
 ![](./image/ios_现货交易.png)
 合约交易
