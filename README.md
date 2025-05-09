@@ -10,13 +10,14 @@ BITCOIN ETHEREUM XRP 数字货币交易所
 ### 原生IOS安卓
 ### PC端vue
 
-# 体验PC端
+## 体验PC端
 https://www.coc.exchange/
 账号：coc3@coc.exchange
 密码：1234qwer
 
+## 联系方式：bojackworkman@gmail.com
 
-# 预览
+## 预览
 PC端
 首页
 ![](./image/pc_首页.png)
