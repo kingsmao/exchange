@@ -33,29 +33,40 @@ PC端
 管理后台
 ![](./image/管理后台.png)
 
-IOS
-首页
-<img src="./image/ios_首页.png" alt="iOS首页" style="width:350px;height:auto;">
-现货交易
-![](./image/ios_现货交易.png)
-合约交易
-![](./image/ios_合约交易.png)
-k线
-![](./image/ios_k线.png)
-资产1
-![](./image/ios_资产1.png)
-资产2
-![](./image/ios_资产2.png)
-资产3
-![](./image/ios_资产3.png)
-安卓
-合约交易
-![](./image/android_合约交易.jpg)
-现货交易
-![](./image/android_现货交易.jpg)
-k线
-![](./image/android_k线.jpg)
-资产
-![](./image/android_资产.jpg)
-邀请返佣
-![](./image/android_邀请返佣.jpg)
+## IOS
+#### 首页  
+<img src="./image/ios_首页.png" style="width:350px;height:auto;  margin-right:10px;">  
+
+#### 现货交易  
+<img src="./image/ios_现货交易.png" style="width:350px;height:auto;  margin-right:10px;">
+
+#### 合约交易 
+<img src="./image/ios_合约交易.png" style="width:350px;height:auto;  margin-right:10px;">
+
+#### k线
+<img src="./image/ios_k线.png" style="width:350px;height:auto;  margin-right:10px;">
+
+#### 资产1
+<img src="./image/ios_资产1.png" style="width:350px;height:auto;  margin-right:10px;">
+
+#### 资产2
+<img src="./image/ios_资产2.png" style="width:350px;height:auto;  margin-right:10px;">
+
+#### 资产3
+<img src="./image/ios_资产3.png" style="width:350px;height:auto;  margin-right:10px;">
+
+## 安卓
+#### 合约交易
+<img src="./image/android_合约交易.jpg" style="width:350px;height:auto;  margin-right:10px;">
+
+#### 现货交易
+<img src="./image/android_现货交易.jpg" style="width:350px;height:auto;  margin-right:10px;">
+
+#### k线
+<img src="./image/android_k线.jpg" style="width:350px;height:auto;  margin-right:10px;">
+
+#### 资产
+<img src="./image/android_资产.jpg" style="width:350px;height:auto;  margin-right:10px;">
+
+#### 邀请返佣
+<img src="./image/android_邀请返佣.jpg" style="width:350px;height:auto;  margin-right:10px;">
