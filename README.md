@@ -15,8 +15,9 @@
 #### 账号：coc3@coc.exchange
 #### 密码：1234qwer
 
-## 邮箱联系：bojackworkman@gmail.com
-## telegram联系：[@bender_cex](https://t.me/bender_cex)
+## 商务&合作
+### 邮箱：bojackworkman@gmail.com
+### telegram：[@bender_cex](https://t.me/bender_cex)
 
 ## 预览
 ## PC端
