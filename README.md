@@ -1,10 +1,22 @@
 # 数字货币交易所
 BITCOIN ETHEREUM XRP 数字货币交易所
 
-商业化5年数字货币交易所
-现货交易，合约交易，理财，经纪人系统，充提系统
-ISO ANDROID PC H5 管理后台 做市商系统
+### 商业化5年的数字货币交易所
+### 现货交易，合约交易，理财，经纪人系统，充提系统
+### 包含 IOS 安卓 PC H5 管理后台 做市商系统
 
+## 技术栈
+### 后端 golang 微服务 postgres redis mq
+### 原生IOS安卓
+### PC端vue
+
+# 体验PC端
+https://www.coc.exchange/
+账号：coc3@coc.exchange
+密码：1234qwer
+
+
+# 预览
 PC端
 首页
 ![](./image/pc_首页.png)
